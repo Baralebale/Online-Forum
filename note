@@ -1,1 +1,5 @@
-
+手动导入 Maven 项目：
+如果你已经有 pom.xml，但是 IntelliJ 没识别，可以这样操作：
+右键点击项目根目录的 pom.xml 文件
+选择 Add as Maven Project
+（或者在 IntelliJ 右上角可能有提示 “Maven projects need to be imported” 的小提示条，点击“Import Changes”）
